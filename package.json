@@ -1,0 +1,1 @@
+{ "name": "bellroy-elm-component", "scripts": { "dev": "astro dev" }, "dependencies": { "astro": "^4.0.0" } }
